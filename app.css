@@ -1,3 +1,13 @@
 body {
-    color: green;
+    font-family: 'Glory' sans-serif;
+    color: lightgray;
+}
+
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+a:hover{
+text-decoration:none;
+color:purple;
 }
