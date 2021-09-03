@@ -1,6 +1,6 @@
 body {
     font-family: 'Glory' sans-serif;
-    color: lightgray;
+    background-color: lightgray;
 }
 
 h2, p, .readme-wrapper{
@@ -10,4 +10,97 @@ h2, p, .readme-wrapper{
 a:hover{
 text-decoration:none;
 color:purple;
+font-weight: 400;
 }
+
+span{
+    font-weight: 700;
+    color:mediumspringgreen;
+}
+
+.boxes{
+    margin: 1em 0 1em 0;
+    padding:1em ;
+    border: 9px solid #00adff;;
+    border-radius: 10px;
+    width: 30em;
+    display:block;
+}
+
+
+#box1{
+    background-color: blue;
+}
+
+#box2{
+    background-color: rgb(222, 135, 179);
+    
+   
+}
+
+#box3{
+    background-color: chocolate;
+}
+
+#box4{
+    background-color: crimson;
+}
+
+.breezyBox{
+    border-radius: 30px;
+    height: 50px;
+    width:50px;
+    border:50px;
+    background-color: olive;
+}
+
+h1{
+    color:tomato;
+}
+
+.Original{
+    color: thistle;
+}
+
+.Additional{
+    color:sienna;
+}
+
+#show1{
+color:cadetblue; 
+}
+
+#show2{
+
+color:coral;
+}
+
+#show3{
+    color:darkcyan;
+}
+
+#show4{
+    color:darkkhaki;
+}
+
+#show5{
+    color:yellowgreen;
+}
+
+ul{
+    color:dodgerblue;
+}
+
+.star{
+    color:khaki;
+}
+
+#wars{
+    color:rebeccapurple;
+}
+
+.ul-div{
+    border:2px solid black;
+}
+
+
